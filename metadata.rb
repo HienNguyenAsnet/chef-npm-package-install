@@ -20,6 +20,7 @@
 # limitations under the License.
 #
 
+name             'npm'
 maintainer       "Kevin Sookocheff"
 maintainer_email "kevin.sookocheff@gmail.com"
 license          "Apache License, Version 2.0"
